@@ -35,8 +35,8 @@ Real-time resume and cover letter generation using AI.
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/muhammad-usman-004b363a4/)  
-- Email: your.email@example.com  
-- Portfolio: your-portfolio-link.com
+- Email: um558899@gmail.com  
+- Portfolio: https://usman-portfolio-puce.vercel.app/
 
 ---
 
