@@ -7,7 +7,7 @@ Building modern applications with **React, React Native, Next.js, Firebase & AI*
 
 ## 🔹 Featured Projects
 
-### [Fixora – Smart Civic Issue Reporting System](https://github.com/samii999/Fixora_fyp.git)
+### [Fixora – Smart Civic Issue Reporting System (FINAL YEAR PROJECT)](https://github.com/samii999/Fixora_fyp.git)
 
 A civic issue reporting mobile application with role-based authentication and AI-powered automation.
 
