@@ -1,49 +1,85 @@
 # Hi, I'm Muhammad Usman 👋
 
 **BSCS Graduate | Full-Stack Developer**  
-Building apps with **React, React Native, Next.js, Firebase & AI**  
+Building modern applications with **React, React Native, Next.js, Firebase & AI**
 
 ---
 
 ## 🔹 Featured Projects
 
-### [Fixora](https://github.com/samii999/Fixora_fyp.git)
-Civic issue reporting app with role-based authentication for Users, Staff & Admins.  
-**Tech Stack:** React Native (Expo), Firebase Auth & Firestore, Supabase for images  
-**Features:**  
-- Submit reports with images & GPS location  
-- Admin dashboard to manage staff & organizations  
-- Staff module with status tracking  
+### Fixora – Smart Civic Issue Reporting System  
+🔗 GitHub: https://github.com/samii999/Fixora_fyp.git  
 
-### [AI Resume Builder](https://github.com/YOUR_USERNAME/AI-Resume-Builder)
-Real-time AI-powered resume & cover letter generator.  
-**Tech Stack:** Next.js, TypeScript, AI LLM integration  
-**Features:**  
-- Parses resume data into structured templates  
-- Chat-based suggestions & live preview  
+A civic issue reporting mobile application with role-based authentication and AI-powered automation.
+
+**Tech Stack:**  
+React Native (Expo), Firebase Auth, Firestore, Supabase Storage, AI Integration  
+
+**Key Features:**
+- Report issues with images & GPS location  
+- Role-based system (User, Staff, Admin)  
+- Admin dashboard for organization management  
+- Staff module with approval workflow  
+- Real-time report tracking  
+- Image upload using Supabase  
+- **AI Integration for issue auto-tagging and smart suggestions**  
+- Map-based visualization of complaints  
 
 ---
 
-## 💻 Skills
+### Rescov – AI Resume & Cover Letter Generator  
+🔗 GitHub: https://github.com/samii999/Rescov_AI_Resume  
 
-| Skill            | Proficiency |
-|-----------------|------------|
-| **React**        | ![90](https://progress-bar.dev/90/) |
-| **React Native** | ![85](https://progress-bar.dev/85/) |
-| **Next.js**      | ![80](https://progress-bar.dev/80/) |
-| **Firebase**     | ![80](https://progress-bar.dev/80/) |
-| **Node.js**      | ![75](https://progress-bar.dev/75/) |
-| **Tailwind CSS** | ![85](https://progress-bar.dev/85/) |
-| **AI/LLM**       | ![70](https://progress-bar.dev/70/) |
+Real-time AI-powered platform to generate professional resumes and cover letters.
+
+**Tech Stack:**  
+Next.js, TypeScript, Tailwind CSS, AI LLM Integration  
+
+**Features:**
+- AI-based resume content generation  
+- Smart cover letter writing  
+- Chat-based improvement suggestions  
+- Live preview of resume  
+- Structured resume templates  
+- Export-ready professional format  
+
+---
+
+## 💻 Technical Skills
+
+**Frontend Development**
+- React.js  
+- Next.js  
+- React Native (Expo)  
+- JavaScript / TypeScript  
+- HTML5 / CSS3  
+- Tailwind CSS  
+
+**Backend & Databases**
+- Firebase Authentication  
+- Firestore Database  
+- Supabase  
+- REST APIs  
+- Node.js Basics  
+
+**Tools & Others**
+- Git & GitHub  
+- API Integration  
+- AI / LLM Integration  
+- Problem Solving  
+- Clean Code Practices  
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-004b363a4/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usman-portfolio-puce.vercel.app/)  
-Email: um558899@gmail.com  
+
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-usman-004b363a4  
+- **Portfolio:** https://usman-portfolio-puce.vercel.app  
+- **Email:** um558899@gmail.com  
 
 ---
 
-## ⚡ Fun Fact
-I love building apps that **solve real-world problems** and making them **simple, functional & beautiful**.
+## ⚡ About Me
+
+I enjoy building applications that solve **real-world problems** with clean design and smart functionality.  
+My goal is to create software that is practical, scalable, and user-friendly.
