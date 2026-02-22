@@ -43,7 +43,7 @@ Next.js 16, TypeScript, Tailwind CSS, Supabase (Auth, Database, Storage, Realtim
 
 ---
 
-### [TensesUrdu – Learn English Tenses in Urdu](https://tensesurdu.vercel.app)
+### [TensesUrdu – Learn English Tenses in Urdu](https://github.com/samii999/tenses-learning-urdu.git)
 
 A comprehensive SEO-focused web application helping Urdu speakers master all 12 English tenses through interactive lessons, exercises, and quizzes.
 
