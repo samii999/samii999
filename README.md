@@ -26,6 +26,23 @@ React Native (Expo), Firebase Auth, Firestore, Supabase Storage, AI Integration
 
 ---
 
+### [KAMI MobileShop – E-Commerce Store](https://github.com/samii999/Ecommerce-Store.git)
+
+Full-stack e-commerce platform for mobile accessories with integrated printing service.
+
+**Tech Stack:**  
+Next.js 16, TypeScript, Tailwind CSS, Supabase (Auth, Database, Storage, Realtime)
+
+**Key Features:**
+- Secure admin authentication with server-side protection
+- Real-time order notifications using Supabase Realtime
+- Multi-file printing service with individual settings & price calculation
+- Complete product & order management system
+- Customer order tracking via phone number
+- Responsive mobile-first design
+
+---
+
 ### [Rescov – AI Resume & Cover Letter Generator](https://github.com/samii999/Rescov_AI_Resume)
 
 Real-time AI-powered platform to generate professional resumes and cover letters.
