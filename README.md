@@ -43,6 +43,25 @@ Next.js 16, TypeScript, Tailwind CSS, Supabase (Auth, Database, Storage, Realtim
 
 ---
 
+### [TensesUrdu – Learn English Tenses in Urdu](https://tensesurdu.vercel.app)
+
+A comprehensive SEO-focused web application helping Urdu speakers master all 12 English tenses through interactive lessons, exercises, and quizzes.
+
+**Tech Stack:**  
+Next.js 15, TypeScript, Tailwind CSS, Vercel
+
+**Key Features:**
+- 12 detailed tense lessons with Urdu explanations
+- 24 interactive practice exercises with instant feedback
+- 12 knowledge-check quizzes with scoring system
+- Common mistakes section for each tense
+- Progress tracking and learning tips
+- Complete SEO implementation (sitemap.xml, robots.txt, meta tags)
+- Fully responsive with RTL support for Urdu text
+- 100+ optimized pages for search engine discovery
+
+---
+
 ### [Rescov – AI Resume & Cover Letter Generator](https://github.com/samii999/Rescov_AI_Resume)
 
 Real-time AI-powered platform to generate professional resumes and cover letters.
@@ -76,6 +95,13 @@ Next.js, TypeScript, Tailwind CSS, AI LLM Integration
 - Supabase  
 - REST APIs  
 - Node.js Basics  
+
+**SEO & Performance**
+- SEO Best Practices
+- Sitemap Generation
+- Meta Tags Optimization
+- robots.txt Configuration
+- Core Web Vitals
 
 **Tools & Others**
 - Git & GitHub  
