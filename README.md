@@ -59,7 +59,7 @@ Next.js 15, TypeScript, Tailwind CSS, Vercel
 - Complete SEO implementation (sitemap.xml, robots.txt, meta tags)
 - Fully responsive with RTL support for Urdu text
 - 100+ optimized pages for search engine discovery
-
+- live check (https://tensesurdu.vercel.app/)
 ---
 
 ### [Rescov – AI Resume & Cover Letter Generator](https://github.com/samii999/Rescov_AI_Resume)
