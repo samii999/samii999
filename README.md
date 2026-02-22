@@ -40,7 +40,7 @@ Next.js 16, TypeScript, Tailwind CSS, Supabase (Auth, Database, Storage, Realtim
 - Complete product & order management system
 - Customer order tracking via phone number
 - Responsive mobile-first design
-
+- live check (https://kami-mobileshop.vercel.app/)
 ---
 
 ### [TensesUrdu – Learn English Tenses in Urdu](https://github.com/samii999/tenses-learning-urdu.git)
