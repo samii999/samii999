@@ -74,6 +74,34 @@ A comprehensive SEO-focused web application helping Urdu speakers master all 12 
 
 ---
 
+### [Web Security Workspace (v2)](https://github.com/samii999/Web-Security.git)
+
+A hands-on engineering sandbox dedicated to auditing, exploiting, and remediating high-criticality full-stack web vulnerabilities based on Frontend Masters curriculum.
+
+**Tech Stack:** Node.js, Express, TypeScript, SQLite, Knex.js, OpenSSL
+
+**Key Features:**
+- **Injection Mitigation:** Refactored raw SQL queries to prepared, parameterized statements to block SQL Injection (SQLi).
+- **Scripting & Origin Defenses:** Built deep context-aware data sanitization filters against Reflected/Stored XSS and configured cryptographically signed CSRF tokens.
+- **UI Redressing Protection:** Blocked Clickjacking vectors entirely using modern security headers (`X-Frame-Options` and `Content-Security-Policy`).
+- **Network & Cryptography:** Configured encrypted local transport layers with OpenSSL HTTPS modules, enforcing Strict Transport Security (HSTS) and Subresource Integrity (SRI) hashes.
+
+---
+
+### [Next.js Production Workspace (v4)](https://github.com/samii999/Nextjs-fundemental.git)
+
+A production-grade laboratory exploring server-first application design, performance optimizations, and backend data lifecycles utilizing the modern App Router framework.
+
+**Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, Vitest
+
+**Key Features:**
+- **RSC Composition Patterns:** Maximized server rendering capabilities by orchestrating seamless data flows between Server and Client Components.
+- **Secure Data Lifecycles:** Formulated type-safe Server Actions to handle backend operations without building external REST routes.
+- **Optimistic UI & State:** Integrated React's `useOptimistic` hook with fallback error routines for instant UI feedback loops.
+- **Performance & Streaming:** Applied granular time-based and on-demand cache revalidation alongside customized React Suspense skeleton architectures.
+
+---
+
 ### [Rescov – AI Resume & Cover Letter Generator](https://github.com/samii999/Rescov_AI_Resume)
 
 Real-time AI-powered platform to generate professional resumes and cover letters.
