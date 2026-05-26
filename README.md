@@ -1,7 +1,6 @@
 # Hi, I'm Muhammad Usman 👋
 
-**BSCS Graduate | Full-Stack Developer**  
-Building modern applications with **React, React Native, Next.js, Firebase & AI**
+**BSCS Graduate | Full-Stack Developer** Building modern applications with **React, React Native, Next.js, Firebase & AI**
 
 ---
 
@@ -11,18 +10,16 @@ Building modern applications with **React, React Native, Next.js, Firebase & AI*
 
 A civic issue reporting mobile application with role-based authentication and AI-powered automation.
 
-**Tech Stack:**  
-React Native (Expo), Firebase Auth, Firestore, Supabase Storage, AI Integration  
+**Tech Stack:** React Native (Expo), Firebase Auth, Firestore, Supabase Storage, AI Integration  
 
 **Key Features:**
-- Report issues with images & GPS location & Discription  
+- Report issues with images & GPS location & Description  
 - Role-based system (User, Staff, Admin)  
 - Admin dashboard for organization management  
 - Staff module with approval workflow  
 - Real-time report tracking  
 - Image upload using Supabase  
-- **AI Integration for image classification and report urgency level detection**  
-- Map-based visualization of complaints  
+- **AI Integration for image classification and report urgency level detection** - Map-based visualization of complaints  
 
 ---
 
@@ -30,8 +27,7 @@ React Native (Expo), Firebase Auth, Firestore, Supabase Storage, AI Integration
 
 Full-stack e-commerce platform for mobile accessories with integrated printing service.
 
-**Tech Stack:**  
-Next.js 16, TypeScript, Tailwind CSS, Supabase (Auth, Database, Storage, Realtime)
+**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Supabase (Auth, Database, Storage, Realtime)
 
 **Key Features:**
 - Secure admin authentication with server-side protection
@@ -40,15 +36,30 @@ Next.js 16, TypeScript, Tailwind CSS, Supabase (Auth, Database, Storage, Realtim
 - Complete product & order management system
 - Customer order tracking via phone number
 - Responsive mobile-first design
-- live check (https://kami-mobileshop.vercel.app/)
+- Live check (https://kami-mobileshop.vercel.app/)
+
+---
+
+### [Autonomous AI Agent Runtime](https://github.com/samii999/AI-Agent.git)
+
+A production-grade, zero-dependency autonomous AI Agent runtime built from scratch with an advanced reasoning execution loop and dynamic evaluation benchmarking.
+
+**Tech Stack:** TypeScript, Node.js, Vercel AI SDK, Zod, Tavily API
+
+**Key Features:**
+- **ReAct Loop Execution:** Independent multi-step reasoning, tool selection, and autonomous error self-correction.
+- **Strictly Typed Native Tools:** Secure workspace File I/O tools and temporal tracking managed via Zod schemas.
+- **Host Terminal Execution:** Secure shell tool that safely executes host commands (e.g., parsing system trees and tracking workspace states).
+- **Context Compaction Layer:** Autonomous token optimization that summarizes historical memory when tracking limits cross model boundaries.
+- **Automated Evaluation Suite:** Single-turn assertions for tool-calling accuracy alongside multi-turn sequential testing runners.
+
 ---
 
 ### [TensesUrdu – Learn English Tenses in Urdu](https://github.com/samii999/tenses-learning-urdu.git)
 
 A comprehensive SEO-focused web application helping Urdu speakers master all 12 English tenses through interactive lessons, exercises, and quizzes.
 
-**Tech Stack:**  
-Next.js 15, TypeScript, Tailwind CSS, Vercel
+**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Vercel
 
 **Key Features:**
 - 12 detailed tense lessons with Urdu explanations
@@ -59,15 +70,15 @@ Next.js 15, TypeScript, Tailwind CSS, Vercel
 - Complete SEO implementation (sitemap.xml, robots.txt, meta tags)
 - Fully responsive with RTL support for Urdu text
 - 100+ optimized pages for search engine discovery
-- live check (https://tensesurdu.vercel.app/)
+- Live check (https://tensesurdu.vercel.app/)
+
 ---
 
 ### [Rescov – AI Resume & Cover Letter Generator](https://github.com/samii999/Rescov_AI_Resume)
 
 Real-time AI-powered platform to generate professional resumes and cover letters.
 
-**Tech Stack:**  
-Next.js, TypeScript, Tailwind CSS, AI LLM Integration  
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, AI LLM Integration  
 
 **Features:**
 - AI-based resume content generation  
@@ -107,6 +118,7 @@ Next.js, TypeScript, Tailwind CSS, AI LLM Integration
 - Git & GitHub  
 - API Integration  
 - AI / LLM Integration  
+- Agentic Workflows  
 - Problem Solving  
 - Clean Code Practices  
 
